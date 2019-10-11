@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RuntimePermissionInKotlin</string>
+    <string name="permissions_granted">Permission granted.</string>
+    <string name="permissions_denied">Permission denied.</string>
+    <string name="permissions_already_granted">Permissions already granted.</string>
+    <string name="need_permissions">Need permission(s)</string>
+    <string name="some_permissions">Some permissions are required to do the task.</string>
+    <string name="ok_alert">OK</string>
+    <string name="cancel_alert">Cancel</string>
+</resources>
